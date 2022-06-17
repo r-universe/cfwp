@@ -1,0 +1,10 @@
+[
+  {
+    "package": "FMradio",
+    "oncran": true
+  },
+  {
+    "package": "rags2ridges",
+    "oncran": true
+  }
+]
