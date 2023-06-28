@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "FMradio"]
 	path = FMradio
 	url = https://github.com/cfwp/fmradio
-	shallow = true
-	registered = true
 [submodule "rags2ridges"]
 	path = rags2ridges
 	url = https://github.com/cfwp/rags2ridges
-	shallow = true
-	registered = true
